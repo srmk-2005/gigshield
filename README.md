@@ -19,7 +19,7 @@ Automatic disruption detection · Multi-source validation · Instant UPI payouts
 ![Tech Stack](https://img.shields.io/badge/Geofencing-Uber%20H3-0078D4?style=flat-square)
 ![Tech Stack](https://img.shields.io/badge/Payments-Razorpay-023DA1?style=flat-square)
 
-[📊 Phase 1 Demo](#) · [💻 GitHub](#) · [📄 Full Documentation](#)
+
 
 </div>
 
@@ -30,7 +30,7 @@ Automatic disruption detection · Multi-source validation · Instant UPI payouts
 2. [Root Cause Analysis](#-root-cause-analysis)
 3. [Our Solution](#-our-solution)
 4. [Persona Focus](#-persona-focus)
-5. [System Architecture — End-to-End Flow](#-system-architecture--end-to-end-flow)
+5. [System Architecture](#-system-architecture--end-to-end-flow)
 6. [Real Data Sources & Integrations](#-real-data-sources--integrations)
 7. [Parametric Trigger Framework](#-parametric-trigger-framework)
 8. [Multi-Source Validation Engine](#-multi-source-validation-engine)
@@ -40,6 +40,7 @@ Automatic disruption detection · Multi-source validation · Instant UPI payouts
 12. [Novelty & Uniqueness](#-novelty--uniqueness)
 13. [Tech Stack](#-tech-stack)
 14. [Dashboard Design](#-dashboard-design)
+15. [Team](#-team)
 
 
 ---
@@ -194,8 +195,6 @@ Gig Worker Income Loss
 
 ## 🔌 Real Data Sources & Integrations
 
-
-
 | # | Source | What We Use It For | Access Method |
 |---|---|---|---|
 | 1 | **OpenWeatherMap API** | Rainfall (mm/hr), temperature, wind speed, fog, cyclone alerts per lat/lon | REST API, free tier |
@@ -328,8 +327,6 @@ Total days      = 365 × 5 years = 1,825 days per H3 zone
 - `tenure_weeks` → Your own PostgreSQL worker registry
 - `season_enc` → Calendar-derived: monsoon/summer/winter/post_monsoon per city
 
-
-```
 ---
 
 ## 🧠 AI/ML Architecture
@@ -597,6 +594,10 @@ Infrastructure:
 
 ## 👥 Team
 
+---
+
+## 👥 Team
+
 | Member | Role |
 |---|---|
 | Kesavamurthy T | Product & AI Lead |
@@ -604,10 +605,12 @@ Infrastructure:
 | Rahul Jahannathan K | Frontend (React PWA + Voice) |
 | T P Sutharsan | Data & ML (Models + Analytics) |
 
-**Repository:** [GitHub Link — https://github.com/srmk-2005/gigshield.git]
-**Demo Video Phase 1:** [Video Link — https://youtube.com/shorts/5d7wYNrR2LE?si=mjO3Epe9MmhuhsDK]
+**Repository:** [GitHub — https://github.com/srmk-2005/gigshield.git](https://github.com/srmk-2005/gigshield.git)
+
+**Demo Video Phase 1:** [YouTube — 5-minute overview](https://youtube.com/shorts/5d7wYNrR2LE?si=mjO3Epe9MmhuhsDK)
 
 ---
 
 > *Built with ❤️ for India's 5 million invisible delivery heroes.*
+> 
 > *GigShield — Because disruptions shouldn't mean devastation.*
