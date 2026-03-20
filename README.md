@@ -19,7 +19,7 @@ Automatic disruption detection · Multi-source validation · Instant UPI payouts
 ![Tech Stack](https://img.shields.io/badge/Geofencing-Uber%20H3-0078D4?style=flat-square)
 ![Tech Stack](https://img.shields.io/badge/Payments-Razorpay-023DA1?style=flat-square)
 
-
+<h3><a href="https://youtube.com/shorts/5d7wYNrR2LE?si=mjO3Epe9MmhuhsDK">▶️ Watch Demo Video</a></h3>
 
 </div>
 
@@ -607,7 +607,7 @@ Infrastructure:
 
 **Repository:** [GitHub — https://github.com/srmk-2005/gigshield.git](https://github.com/srmk-2005/gigshield.git)
 
-**Demo Video Phase 1:** [YouTube — 5-minute overview](https://youtube.com/shorts/5d7wYNrR2LE?si=mjO3Epe9MmhuhsDK)
+**Demo Video Phase 1:** [YouTube — 3-minute overview](https://youtube.com/shorts/5d7wYNrR2LE?si=mjO3Epe9MmhuhsDK)
 
 ---
 
